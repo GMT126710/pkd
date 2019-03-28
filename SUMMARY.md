@@ -8,3 +8,7 @@
 
 ## Reviews
 
+## Solo Pages
+
+* [Reinstalling MacOS](macos-reinstall.md)
+
